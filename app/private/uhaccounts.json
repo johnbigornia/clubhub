@@ -1,0 +1,44 @@
+[
+  {
+    "email": "clubadmin@foo.com",
+    "password": "changeme",
+    "role": "clubAdmin"
+  },
+  {
+    "email": "john@foo.com",
+    "password": "changeme"
+  },
+  {
+    "email": "superadmin@foo.com",
+    "password": "changeme",
+    "role": "superAdmin"
+  },
+  {
+    "email": "john2@foo.com",
+    "password": "changeme"
+  },
+  {
+    "email": "john3@foo.com",
+    "password": "changeme"
+  },
+  {
+    "email": "john4@foo.com",
+    "password": "changeme"
+  },
+  {
+    "email": "john5@foo.com",
+    "password": "changeme"
+  },
+  {
+    "email": "john6@foo.com",
+    "password": "changeme"
+  },
+  {
+    "email": "john7@foo.com",
+    "password": "changeme"
+  },
+  {
+    "email": "john8@foo.com",
+    "password": "changeme"
+  }
+]
